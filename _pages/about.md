@@ -22,7 +22,7 @@ I am an undergraduate student majoring in Electronic Information Engineering at 
 
 # 📝 Publications {#publications}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP (under review)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP (under review)</div><img src='images/himoe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HiMoE: Hierarchical Mixture-of-Experts Dynamic Fusion for Multimodal Image Segmentation]()
@@ -103,7 +103,7 @@ Supervised by Prof. Kevin Han
 
 # 📝 论文 {#publications-zh}
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP（在审）</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP（在审）</div><img src='images/himoe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HiMoE: Hierarchical Mixture-of-Experts Dynamic Fusion for Multimodal Image Segmentation]()
