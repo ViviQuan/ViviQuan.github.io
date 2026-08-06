@@ -45,14 +45,11 @@
   border-color: #5c5c5c;
 }
 
-/* 去掉点击后的橙色焦点轮廓，保留键盘 accessibility */
-*:focus {
-  outline: none;
-}
+/* 去掉点击后的焦点轮廓 */
+*:focus,
 *:focus-visible {
-  outline: 2px solid #6c6c6c;
-  outline-offset: 2px;
-  border-radius: 2px;
+  outline: none !important;
+  box-shadow: none !important;
 }
 </style>
 
