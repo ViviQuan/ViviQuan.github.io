@@ -83,9 +83,9 @@ Supervised by Prof. Kevin Han
 - *09/2023 - 07/2027*, B.E. in Electronic Information Engineering, Xidian University, Xi'an, China. GPA: 85.3/100 (3.7/4)
 
 # 🏃 Extracurricular Activities {#activities}
-- *03/2025 - 09/2025*, Head of the General Affairs Department, Student Union of Xidian University.
-- *01/2024 - Present*, Deputy Captain of the Admissions Corps / Recruitment Ambassador for South China, Xidian University. Awarded Outstanding Admission Worker.
-- *01/2024 - 02/2024*, Team Leader, Winter Vacation Promotion Campaign. Awarded Outstanding Individual and Outstanding Team Leader.
+- *03/2025 - 09/2025*, Head of the Coordination Department, Student Union of School of Electronic Engineering, Xidian University.
+- *01/2024 - Present*, Deputy Captain of the Admissions General Team / Recruitment Ambassador for South China, Xidian University. Awarded Outstanding Admission Worker.
+- *01/2024 - 02/2024*, Team Leader, Winter Vacation School Visit Campaign. Awarded Outstanding Individual and Outstanding Team Leader.
 
 </div>
 
