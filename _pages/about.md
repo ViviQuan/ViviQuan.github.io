@@ -158,7 +158,7 @@ Xueli Geng, **Jiangquan Hou**, Lingling Li, Licheng Jiao, Xu Liu, Fang Liu, Wenp
 # 🎖 荣誉奖项 {#honors-zh}
 - *2025* 全国大学生数学建模竞赛 陕西省二等奖
 - 西安电子科技大学一等奖学金
-- 西安电子科技大学中法合作教育奋进奖学金
+- 西安电子科技大学中法合作办学进取奖学金
 
 # 📖 教育经历 {#educations-zh}
 - *2023.09 - 2027.07*, 西安电子科技大学，电子信息工程，本科。GPA: 85.3/100 (3.7/4)
