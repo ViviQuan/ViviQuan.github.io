@@ -33,6 +33,7 @@ Xueli Geng, **Jiangquan Hou**, Lingling Li, Licheng Jiao, Xu Liu, Fang Liu, Wenp
 
 - Proposed a Hierarchical Mixture-of-Experts (HiMoE) dynamic fusion framework achieving SOTA performance with only 2.18M parameters.
 - Designed a Gated ConvMamba Block hybrid encoder and a Spatial-Frequency Fusion module for adaptive cross-modal feature fusion.
+- Built a HiMoE decoder with hierarchical pixel-wise gating, validated against 10+ SOTA methods on 4 remote sensing benchmarks.
 
 </div>
 </div>
@@ -116,6 +117,7 @@ Xueli Geng, **Jiangquan Hou**, Lingling Li, Licheng Jiao, Xu Liu, Fang Liu, Wenp
 
 - 提出分层混合专家（HiMoE）动态融合框架，仅用 2.18M 参数即达到 SOTA 性能。
 - 设计门控 ConvMamba Block 混合编码器与空间-频率融合模块，实现自适应跨模态特征融合。
+- 构建分层像素级门控 HiMoE 解码器，在 4 个遥感基准上与 10+ 种 SOTA 方法对比验证。
 
 </div>
 </div>
