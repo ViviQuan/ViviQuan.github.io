@@ -20,6 +20,11 @@ main:
     url_en: "/#research"
     url_zh: "/#research-zh"
 
+  - title_en: "Projects"
+    title_zh: "开源项目"
+    url_en: "/#projects"
+    url_zh: "/#projects-zh"
+
   - title_en: "Honors"
     title_zh: "荣誉奖项"
     url_en: "/#honors"

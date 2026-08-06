@@ -76,6 +76,11 @@ Supervised by Prof. Kevin Han
 - Designed a two-stream 1-D CNN model for body action recognition and head gesture recognition.
 - Achieved over 80% accuracy with real-time performance (0.56s average latency).
 
+# 💻 Projects {#projects}
+- [**deep-explainer**](https://github.com/ViviQuan/deep-explainer) - Turn any academic paper or GitHub repo into a beautiful HTML explainer page with KaTeX, Mermaid, dark mode, and example-driven explanations.
+- [**agnescode**](https://github.com/ViviQuan/agnescode) - Terminal-native AI coding agent with built-in Agnes AI (free multimodal API).
+- [**Token-Monitor**](https://github.com/ViviQuan/Token-Monitor) - Floating AI token usage monitor with a collapsible ball, real-time tracking of API costs and quota. Built with Tauri.
+
 # 🎖 Honors and Awards {#honors}
 - *2025* Second Prize (Shaanxi Province), National Undergraduate Mathematical Contest in Modeling
 - Xidian University First Class Scholarship
@@ -159,6 +164,11 @@ Xueli Geng, **Jiangquan Hou**, Lingling Li, Licheng Jiao, Xu Liu, Fang Liu, Wenp
 - 提出基于视觉 SLAM 与 CNN 的方案，从头盔摄像头自动识别工人不安全行为。
 - 设计双流 1-D CNN 模型，分别处理身体动作识别与头部姿态识别。
 - 实现超过 80% 识别准确率，平均延迟 0.56 秒，满足实时性要求。
+
+# 💻 开源项目 {#projects-zh}
+- [**deep-explainer**](https://github.com/ViviQuan/deep-explainer) - 将任意学术论文或 GitHub 仓库转化为精美的 HTML 解读页面，支持 KaTeX、Mermaid、暗黑模式与示例驱动讲解。
+- [**agnescode**](https://github.com/ViviQuan/agnescode) - 终端原生 AI 编程助手，内置 Agnes AI（免费多模态 API）。
+- [**Token-Monitor**](https://github.com/ViviQuan/Token-Monitor) - 悬浮式 AI Token 用量监控面板，实时追踪 API 成本、Token 消耗与套餐额度。基于 Tauri 构建。
 
 # 🎖 荣誉奖项 {#honors-zh}
 - *2025* 全国大学生数学建模竞赛 陕西省二等奖
