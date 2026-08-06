@@ -84,7 +84,6 @@ Supervised by Prof. Kevin Han
 # 🎖 Honors and Awards {#honors}
 - *2025* Second Prize (Shaanxi Province), National Undergraduate Mathematical Contest in Modeling
 - Xidian University First Class Scholarship
-- Bronze Award, China International College Students' "Internet+" Innovation and Entrepreneurship Competition
 - China-France Cooperative Education Endeavor Scholarship, Xidian University
 
 # 📖 Education {#educations}
@@ -173,7 +172,6 @@ Xueli Geng, **Jiangquan Hou**, Lingling Li, Licheng Jiao, Xu Liu, Fang Liu, Wenp
 # 🎖 荣誉奖项 {#honors-zh}
 - *2025* 全国大学生数学建模竞赛 陕西省二等奖
 - 西安电子科技大学一等奖学金
-- 中国国际大学生"互联网+"创新创业大赛 铜奖
 - 西安电子科技大学中法合作教育奋进奖学金
 
 # 📖 教育经历 {#educations-zh}
