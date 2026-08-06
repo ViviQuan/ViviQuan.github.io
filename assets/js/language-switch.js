@@ -1,10 +1,18 @@
 (function () {
   function setLanguage(lang) {
-    // 切换内容显示
+    // 切换主内容区
     var en = document.getElementById('content-en');
     var zh = document.getElementById('content-zh');
     if (en) en.style.display = lang === 'en' ? 'block' : 'none';
     if (zh) zh.style.display = lang === 'zh' ? 'block' : 'none';
+
+    // 切换侧边栏（姓名、简介、位置、描述等）
+    document.querySelectorAll('.lang-en').forEach(function (el) {
+      el.style.display = lang === 'en' ? '' : 'none';
+    });
+    document.querySelectorAll('.lang-zh').forEach(function (el) {
+      el.style.display = lang === 'zh' ? '' : 'none';
+    });
 
     // 切换导航栏链接和文本
     document.querySelectorAll('.masthead__menu-item a[data-en-text]').forEach(function (a) {

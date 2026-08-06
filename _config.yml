@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Jiangquan Hou"
 description              : "Personal homepage of Jiangquan Hou - undergraduate student at Xidian University. Research interests: multimodal fusion, semantic segmentation, multimodal large models, incremental learning."
+description_zh           : "侯江权的个人主页 — 西安电子科技大学本科生。研究兴趣：多模态融合、语义分割、多模态大模型、增量学习。"
 repository               : "ViviQuan/ViviQuan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,9 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiangquan Hou"
+  name_zh          : "侯江权"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Undergraduate Student, Xidian University"
+  bio_zh           : "西安电子科技大学 本科生"
   location         : "Xi'an, China"
+  location_zh      : "西安，中国"
   employer         :
   pubmed           : 
   googlescholar    :
