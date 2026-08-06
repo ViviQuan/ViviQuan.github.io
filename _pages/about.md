@@ -62,13 +62,6 @@ Supervised by Prof. Xueli Geng
 - Proposed a Spatial-Frequency Fusion (SFFusion) module combining spatial saliency and frequency spectral features for adaptive cross-modal fusion.
 - Built a HiMoE decoder with hierarchical pixel-wise gating, validated against 10+ SOTA methods on 4 remote sensing benchmarks.
 
-**Temperature-sensitive Reconfigurable Antenna Sensor Based on Dual-patch Antenna Form**
-*11/2024 - 05/2026 · Xidian University*
-Supervised by Prof. Nan Zhao
-- Simulated and analyzed microstrip and array antennas, comparing theoretical calculations with simulation results.
-- Designed an innovative dual-patch antenna structure based on bimetallic strip materials for improved antenna performance.
-- Conducted HFSS simulation and parameter optimization across different frequency bands and polarization conditions.
-
 **Research on Human Action Recognition Integrating Visual SLAM and Dual-Stream CNN**
 *12/2024 - 01/2025 · NC State University*
 Supervised by Prof. Kevin Han
@@ -149,13 +142,6 @@ Xueli Geng, **Jiangquan Hou**, Lingling Li, Licheng Jiao, Xu Liu, Fang Liu, Wenp
 - 设计门控 ConvMamba Block 混合编码器，融合 CNN 局部特征提取与 Mamba 长程依赖建模。
 - 提出空间-频率融合（SFFusion）模块，结合空间显著性与频谱特征实现自适应跨模态融合。
 - 构建分层像素级门控 HiMoE 解码器，在 4 个遥感基准上与 10+ 种 SOTA 方法对比验证。
-
-**基于双贴片天线形式的温度敏感可重构天线传感器**
-*2024.11 - 2026.05 · 西安电子科技大学*
-导师：赵楠教授
-- 仿真分析微带天线与阵列天线，对比理论计算与仿真结果，分析辐射特性与阻抗匹配等性能。
-- 基于双金属片材料设计创新双贴片天线结构，为提升天线性能提供新方向。
-- 进行 HFSS 仿真与参数优化，分析不同频段与极化条件下的性能。
 
 **融合视觉 SLAM 与双流 CNN 的人体动作识别研究**
 *2024.12 - 2025.01 · 北卡罗来纳州立大学*
