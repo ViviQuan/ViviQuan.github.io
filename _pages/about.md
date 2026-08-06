@@ -110,7 +110,7 @@ Supervised by Prof. Kevin Han
 
 [HiMoE: Hierarchical Mixture-of-Experts Dynamic Fusion for Multimodal Image Segmentation]()
 
-Xueli Geng, **侯江权**, Lingling Li, Licheng Jiao, Xu Liu, Fang Liu, Wenping Ma
+Xueli Geng, **Jiangquan Hou**, Lingling Li, Licheng Jiao, Xu Liu, Fang Liu, Wenping Ma
 
 *投稿至 IEEE Transactions on Image Processing，在审中*
 
